@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Halo semua! 
-
 Perkenalkan nama saya **Paundra Afif Zamroni**.<br>
 
 Saya seorang **Mahasiswa** di [Politeknik Negeri Banyuwangi](https://www.dicoding.com/).<br>
