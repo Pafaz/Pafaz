@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Halo semua! 
+
+Perkenalkan nama saya **Paundra Afif Zamroni**.<br>
+
+Saya seorang **Mahasiswa** di [Politeknik Negeri Banyuwangi](https://www.dicoding.com/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/paundrafif/)ku ya.
