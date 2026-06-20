@@ -12,10 +12,7 @@
 
 I am a passionate **Informatics Engineering Student** at [Politeknik Negeri Banyuwangi](https://www.poliwangi.ac.id/) and an active **Full-Stack Software Engineer**. I focus heavily on digital entrepreneurship, crafting robust web architectures, and building Software as a Service (SaaS) platforms.
 
-* 🚀 **Currently Building:** [ScanBayar.id](https://scanbayar.id) (Interactive Digital Menu SaaS for Restaurants) & Automated Premium Account Provisioning Platforms.
-* 🌾 **Academic Project:** Developed an E-Farming platform for pedigree tracking and early inbreeding risk detection in livestock using **DAG** and **BFS** algorithms.
-* 🛠️ **Agency:** Founder of **Natincy** (Natural Intelligence Cycle) - a digital agency for tailored software and AI integrations.
-* 📈 **Side Hustles:** Building tools for Shopee/TikTok affiliate research ([Afikom](https://afikom.com)).
+* 🚀 **Currently Building:** [ScanBayar.id](https://scanbayar.recofy.web.id) (Interactive Digital Menu SaaS for Restaurants) & Automated Premium Account Provisioning Platforms.
 
 ---
 
